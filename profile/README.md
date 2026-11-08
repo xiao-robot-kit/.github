@@ -8,8 +8,8 @@
 
 | 仓库 | 是什么 | 什么时候用 |
 | --- | --- | --- |
-| [xiao_robot_kit_idf](https://github.com/xiao-robot-kit/xiao_robot_kit_idf) | 手工档 **ESP-IDF 库**：七组件（IMU/姿态/电机/参数持久化/电池/标定/加热）+ **13 个板载外设例程**（P-00~P-12） | 手写 IDF 工程 |
-| [xiao_robot_kit_arduino](https://github.com/xiao-robot-kit/xiao_robot_kit_arduino) | 手工档 **Arduino 库**：同一颗 C 核心 + `library.properties` + 三 sketch | Arduino IDE 用户 |
+| [xiao_robot_kit_idf](https://github.com/xiao-robot-kit/xiao_robot_kit_idf) | 手工档 **ESP-IDF 库**：八组件（IMU/姿态/电机/参数持久化/电池/标定/加热/协议帧）+ **13 个板载外设例程**（P-00~P-12）+ 14 个深度实验工程 | 手写 IDF 工程 |
+| [xiao_robot_kit_arduino](https://github.com/xiao-robot-kit/xiao_robot_kit_arduino) | 手工档 **Arduino 库**：同一颗 C 核心（八组件）+ `library.properties` + 三 sketch | Arduino IDE 用户 |
 | [xiao_robot_kit_vibe](https://github.com/xiao-robot-kit/xiao_robot_kit_vibe) | **vibecoding 工作区**：五份 AI 多代理工作流配方，大小库自由切换 | 让 AI 替你写代码 |
 | [xiao_robot_kit_docs](https://github.com/xiao-robot-kit/xiao_robot_kit_docs) | **文档**：硬件介绍 + 三库教学 + 13 个外设例程逐个拆解（教怎么用，不是罗列） | 拿到套件先看这里 |
 | [xiao_robot_kit_qemu](https://github.com/xiao-robot-kit/xiao_robot_kit_qemu) | **调试**：ESP32-S3 QEMU 虚拟板，无实物烧录仿真 | 没有真板照样调 |
