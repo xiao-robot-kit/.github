@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: MIT -->
 # XIAO Robot Kit 🤖
 
-> 一块 XIAO ESP32-S3、一套 IMU/电机硬件板、六个公开仓——从手写 C 到 AI 代写
+> 一块 XIAO ESP32-S3、一套 IMU/电机硬件板、六个开发仓——从手写 C 到 AI 代写
 > 到无实物仿真到可视化调试，一条链全给你。
 
 ## 六仓地图
