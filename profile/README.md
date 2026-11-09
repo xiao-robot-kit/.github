@@ -34,7 +34,7 @@ IDF/Arduino 两形态 API 一致、自由切换；**禁隐式回落**：模式�
 ## 仓库惯例
 
 - 全部 MIT，SPDX 头标注
-- 每库自带可复跑测试（idf 5,004 断言 / ctest 10 组 · arduino 语法检查 / host 27 组 / qemu FAQ）
+- 每库自带可复跑测试（idf 5,052 断言 / ctest 11 组 · arduino 语法检查 6 项 / host 27 组 / qemu FAQ）
 - 提交即证据：可复现命令 + 实际输出
 
 ## 收藏 = 免广告
